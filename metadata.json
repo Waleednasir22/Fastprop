@@ -1,0 +1,8 @@
+{
+  "name": "FastProp - Excel-Driven Real Estate Inventory & Lead Exchange",
+  "description": "High-speed spreadsheet-based property inventory platform with verified WhatsApp listings, 0.33% pay-per-lead unlock, anti-fraud 3-strike engine, and live market feed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
